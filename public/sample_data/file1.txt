@@ -1,0 +1,5 @@
+This is the first sample file.
+It contains several lines of text.
+Words are repeated to test frequency counting. Sample sample words.
+The analysis should be interesting.
+Enjoy exploring File Fortress!

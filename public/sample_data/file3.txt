@@ -1,0 +1,7 @@
+The quick brown fox jumps over the lazy dog.
+This classic pangram includes every letter of the alphabet.
+It's often used for testing typefaces and keyboard layouts.
+Short and sweet.
+One two three four five.
+Six seven eight nine ten.
+File analysis provides data.

@@ -1,0 +1,6 @@
+Welcome to the second document.
+This document has a different style and content.
+Complexity might vary, and sentiment could be neutral or positive.
+File Fortress aims to provide useful insights.
+Another line for testing purposes. Text analysis can be quite powerful.
+Hello world, this is a test.
